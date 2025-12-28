@@ -1,4 +1,4 @@
-# 🏦 Multi-Agent Loan Underwriting Demo
+#  Multi-Agent Loan Underwriting Demo
 
 A demonstration of agentic architecture for mortgage loan underwriting using Fireworks AI. The system features an Orchestrator Agent that coordinates Verification and Policy sub-agents via tool-calling to validate loan applications.
 
